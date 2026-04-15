@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   // Must match your GitHub repository name exactly.
   // Repo: github.com/joshuamlpereira/sentinel_website
-  base: "/sentinel_website/",
+  base: "/",
 });

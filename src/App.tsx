@@ -1471,7 +1471,7 @@ export default function App() {
               </button>
               <span className="text-slate-800 text-xs">/</span>
               <a
-                href="/sentinel_website/privacy.html"
+                href="/privacy.html"
                 className="text-slate-600 hover:text-slate-400 transition-colors text-xs font-mono"
               >
                 Privacy

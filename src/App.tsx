@@ -1450,7 +1450,7 @@ export default function App() {
             {/* Links */}
             <div className="flex items-center gap-4">
               <a
-                href="#"
+                href="https://github.com/joshuamlpereira/sentinel-extension"
                 className="text-slate-600 hover:text-slate-400 transition-colors text-xs font-mono"
               >
                 GitHub
